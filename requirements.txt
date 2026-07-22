@@ -1,0 +1,6 @@
+streamlit==1.46.1
+groq
+google-genai
+python-dotenv
+ffmpeg-python
+srt
