@@ -1,0 +1,2 @@
+# SubGold
+AI Subtitle Generator
