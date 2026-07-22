@@ -10,8 +10,8 @@ st.title("🎬 SubGold")
 st.write("AI Subtitle Generator")
 
 uploaded_file = st.file_uploader(
-    "Upload Video",
-    type=["mp4", "mov", "avi", "mkv"]
+    "Upload Video or Audio",
+    type=["mp4", "mov", "avi", "mkv", "mp3", "wav", "m4a"]
 )
 
 if uploaded_file:
